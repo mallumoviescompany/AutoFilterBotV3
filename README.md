@@ -11,7 +11,7 @@
 * Imdb posters for autofilter.
 * Imdb rating for autofilter.
 * Custom captions for your files.
-* Index command to index all the files in a given channel (No USER_SESSION Required).
+* Index command https://heroku.com/deploy?template=https://github.com/DalinMathew/AutoFilterBotV3 to index all the files in a given channel (No USER_SESSION Required).
 * Ability to Index Public Channels without being admin.
 * Support Auto-Filter (Both in PM and in Groups)
 * Once files saved in Database , exists until you manually deletes. (No Worry if post gets deleted from source channel.)
@@ -20,7 +20,7 @@
 
 #### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DalinMathew/AutoFilterBotV3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/mallumoviescompany/AutoFilterBotV3)
 
 #### Hard Way
 ```bash
